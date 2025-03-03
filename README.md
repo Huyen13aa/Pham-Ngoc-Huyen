@@ -1,8 +1,8 @@
-# Đặng Anh Tài
-## Mã sinh viên: 22810310385
+# Họ và Tên: Phạm Ngọc Huyên
+## Mã sinh viên: 22810310376
 ## Kết quả
 ## Hình 1:
-![Kết quả](anh1.jpg)
+![Kết quả](home.jpg)
 
 ## Hình 2: 
-![Kết quả](anh2.jpg)
+![Kết quả](scan.jpg)
